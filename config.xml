@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>newsletter_popup</name>
+    <displayName><![CDATA[Newsletter popup]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[A popup appears when customer comes for the first time in our site.This popup suggests him to register in our Newsletter]]></description>
+    <author><![CDATA[Prekas Nikos]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
