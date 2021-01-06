@@ -17,6 +17,7 @@ class newsletter_popup extends Module{
         $this->displayName = $this->l('Newsletter popup');
         $this->description = $this->l('A popup appears when customer comes for the first time in our site.This popup suggests him to register in our Newsletter');
         parent::__construct();
+        //test
     }
 
     public function install()
